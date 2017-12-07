@@ -6,7 +6,7 @@ https://git-scm.com/downloads
 
 
 ### GitHub
-gitHub是一个面向开源及私有软件项目的托管平台，因为只支持git 作为唯一的版本库格式进行托管，故名gitHub。
+GitHub是一个面向开源及私有软件项目的托管平台，支持git作为唯一的版本库格式进行托管。
 https://github.com
 
 ### Git教程（廖雪峰）
