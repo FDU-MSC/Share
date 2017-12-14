@@ -8,3 +8,5 @@
 - https://github.com/FDU-MSTC/Share/blob/master/Git%E5%8F%8AGitHub%E5%85%A5%E9%97%A8.md
 - 如何Debug
 - https://fake.com
+- 代码整洁之道
+- http://www.cnblogs.com/stoneniqiu/p/4815259.html
