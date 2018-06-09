@@ -3,7 +3,10 @@
 
 # 数据科学
 
-python: anaconda [tuna]()
+anaconda: [tuna](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
+
 pip: [tuna](https://mirror.tuna.tsinghua.edu.cn/help/pypi/)
 
 换源之后会发现人生如此美好
+
+pytorch: `conda install pytorch torchvision -c pytorch`
