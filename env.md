@@ -13,6 +13,14 @@ anaconda: [tuna](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
 
 pip: [tuna](https://mirror.tuna.tsinghua.edu.cn/help/pypi/)
 
+```bash
+mkdir ~/.pip
+mkdir ~/.config/pip
+touch ~/.pip/pip.conf
+echo "[global]\nindex-url = https://pypi.tuna.tsinghua.edu.cn/simple\n" >> ~/.pip/pip.conf
+cp ~/.pip/pip.conf ~/.config/pip/pip.conf
+```
+
 换源之后会发现人生如此美好
 
 pytorch: `conda install pytorch torchvision -c pytorch`
