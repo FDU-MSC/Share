@@ -11,6 +11,12 @@ vagrant: 如果实在想要linux的环境，可以用vagrant装虚拟机，然�
 
 anaconda: [tuna](https://mirror.tuna.tsinghua.edu.cn/help/anaconda/)
 
+```bash
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.tuna.tsinghua.edu.cn/anaconda/pkgs/main/
+conda config --set show_channel_urls yes
+```
+
 pip: [tuna](https://mirror.tuna.tsinghua.edu.cn/help/pypi/)
 
 ```bash
