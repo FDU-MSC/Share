@@ -10,5 +10,5 @@
 - https://fake.com
 - 代码整洁之道
 - http://www.cnblogs.com/stoneniqiu/p/4815259.html
-
-- Win10 交换CapsLock & Ctrl: https://xiaozhou.net/exchange_ctrl_and_capslock_key-2012-07-20.html
+- Win10 交换CapsLock & Ctrl:
+- https://xiaozhou.net/exchange_ctrl_and_capslock_key-2012-07-20.html
